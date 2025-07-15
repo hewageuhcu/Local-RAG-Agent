@@ -206,4 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-config/settings.py
+config.py
+
+indexing.py

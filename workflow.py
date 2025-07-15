@@ -53,8 +53,8 @@ if __name__ == "__main__":
         "web_search": "",
         "documents": [],
     }
-    for output in app.stream(inputs):
-        for key, value in output.items():
-            print(f"Finished running: {key}")
-            print(f"Output: {value}")
-            print("---")
+    # for output in app.stream(inputs):
+    #     for key, value in output.items():
+    #         print(f"Finished running: {key}")
+    #         print(f"Output: {value}")
+    #         print("---")
